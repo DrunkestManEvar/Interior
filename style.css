@@ -9,7 +9,7 @@ html, body {
 }
 
 body {
-    min-width: 1364px;
+    min-width: 1344px;
 }
 
 .clearfix:after {
@@ -19,7 +19,7 @@ body {
 }
 
 .container {
-    max-width: 1364px;
+    max-width: 1344px;
     margin: 0 auto;
 }
 
