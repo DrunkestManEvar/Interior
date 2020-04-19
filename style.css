@@ -219,7 +219,6 @@ body {
     width: inherit;
     height: inherit;
     position: absolute;
-    padding: 
     z-index: 1;
     top: 0;
     left: 0;
@@ -508,7 +507,6 @@ body {
     letter-spacing: 1.8px;
     margin-top: 125px;
     margin-left: 100px;
-    margin-bottom: px;
 }
 
 .phone-app-header {
